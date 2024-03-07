@@ -202,15 +202,21 @@ section{
    
 }
 .AboutUsP{
+<<<<<<< HEAD
     width: 100%;
     padding: 10px;
     margin: 10px;
     text-align: center;
     font-size:1rem ;
+=======
+    padding-top: 4rem;
+    font-size:1.5rem ;
+>>>>>>> 0f327dc48a06dca72623c4513f3da9efc211099b
     color: var(--black);
     line-height: 1.8;
     text-shadow:var(--black);
     font-family: 'Poppins', sans-serif;
+<<<<<<< HEAD
     padding-top: 4rem;
     font-size: 1.5rem;
  
@@ -220,6 +226,15 @@ section{
     text-align: center;
     border: 1px solid #eee; 
     width: 40%;
+=======
+    
+
+ }
+ #StaffCard{
+    text-align: center;
+    border: 1px solid #eee; 
+    width: 25%;
+>>>>>>> 0f327dc48a06dca72623c4513f3da9efc211099b
     border-radius: 10px;
     margin: 10px;
     
@@ -228,7 +243,11 @@ section{
 #H1AboutUS h1{
     color: #05664f;
     text-align: center;
+<<<<<<< HEAD
     font-size: 1.9rem;
+=======
+    font-size: 2.7rem;
+>>>>>>> 0f327dc48a06dca72623c4513f3da9efc211099b
 
 }
 #StaffCard img {
@@ -240,7 +259,17 @@ section{
            
 }
 
+<<<<<<< HEAD
 
+=======
+.AboutUsP{
+    margin: auto;
+    width: 1000px;
+    font-size: 20px;
+    
+  
+ }
+>>>>>>> 0f327dc48a06dca72623c4513f3da9efc211099b
 
  section{
     box-sizing: border-box;
@@ -468,7 +497,15 @@ footer p{
         width: 30rem;
         border: var(--border);
         background: #fff;
+<<<<<<< HEAD
      
+=======
+       /* transform: scale(0);
+        opacity: 0;
+        transform-origin: top right;
+        transition: none;
+*/
+>>>>>>> 0f327dc48a06dca72623c4513f3da9efc211099b
     }
     .header .navBar .activ {
         transform: scale(1);

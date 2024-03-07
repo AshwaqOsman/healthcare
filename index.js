@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 let menu = document.querySelector('#menu-btn');
 let navBar = document.querySelector(".navBar");
 
 /*
+=======
+/*let menu = document.querySelector('#menu-btn');
+let navBar = document.querySelector(".navBar");
+
+
+>>>>>>> 0f327dc48a06dca72623c4513f3da9efc211099b
 
 menu.onclick = ()=>{
     menu.classList.toggle('fa-times');
